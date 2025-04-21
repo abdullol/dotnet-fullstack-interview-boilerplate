@@ -95,6 +95,7 @@ interview has 4 segments generally.
   <li>What is O.O.P also understand it deeply Child Parent Concept that may lead to Scenario based Questions</li>
   <li>What are Providers in Angular</li>
   <li>What is Dependency Injection?</li>
+  <li>what is Interface and Abstract? how and why would you use it</li>
   <li>What is Unit of Work</li>
   <li>How many Request Types and Difference between UPDATE and PUT</li>
   <li>How many ways to Register Services in Dotnet Core</li>
@@ -105,6 +106,9 @@ interview has 4 segments generally.
   <li>RESTApi authentication methods in Dotnet also what is JWT?</li>
   <li>How to you send Realtime data from backend also how signalR works?</li>
   <li>what is sql injection and how to prevent it?</li>
+  <li><b>Give examples of Most Complex problems you solved?</b></li>
+  <li>What are Directives in Angular and its types</li>
+  <li>What are Observables, Subjects</li>
   
     
 </ol>
