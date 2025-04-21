@@ -6,6 +6,14 @@
 </p>
 
 <h2>Preparation Plan</h2>
+interview has 4 segments generally.
+     <ul>
+        <li>Problem Solving Question</li>
+        <li>Angular (respective frontend framework questions)</li>
+        <li>Dotnet Concepts</li>
+        <li>Database questions</li>
+    </ul>
+ 
 
 <h3>Day 1: C# / .NET Fundamentals</h3>
 <ul>
@@ -76,3 +84,29 @@
 <p>
     Each day's folder contains relevant resources, including questions, coding exercises, and links to additional materials. Spend a few hours daily on each topic to stay on track. Use the final day to review and solidify your understanding across all topics.
 </p>
+
+<h2>Interview Questions</h2>
+    
+<ol>
+  <li>Array is given and find the missing number.</li>
+  <li>Difference between IEnumerable and IQueryable.</li>
+  <li>Difference between Ref and Var</li>
+  <li>What is S.O.L.I.D, explain each with Code</li>
+  <li>What is O.O.P also understand it deeply Child Parent Concept that may lead to Scenario based Questions</li>
+  <li>What are Providers in Angular</li>
+  <li>What is Dependency Injection?</li>
+  <li>What is Unit of Work</li>
+  <li>How many Request Types and Difference between UPDATE and PUT</li>
+  <li>How many ways to Register Services in Dotnet Core</li>
+  <li>What is Trigger in SQL and it's Types</li>
+  <li>What is Index in SQL and it's Types</li>
+  <li>What is Routing in Ng</li>
+  <li>How to JWT token</li>
+  <li>RESTApi authentication methods in Dotnet also what is JWT?</li>
+  <li>How to you send Realtime data from backend also how signalR works?</li>
+    
+</ol>
+    
+        
+    
+
