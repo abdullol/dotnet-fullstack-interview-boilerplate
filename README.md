@@ -1,8 +1,8 @@
-<h1>1-Week .NET Full-Stack Interview Boilerplate</h1>
+<h1>.NET Full-Stack Interview Boilerplate</h1>
 
 <h2>Purpose</h2>
 <p>
-    This repository is designed to help you prepare for interviews with small companies, specifically targeting .NET + Angular full-stack roles. The plan is structured for a 1-week preparation period, ideal if you've requested a week to prepare from HR.
+    This repository is designed to help you prepare for interviews with small companies, specifically targeting .NET + Angular full-stack roles. The plan is structured for a 1-week preparation period, ideal if you've requested a week to prepare from HR. Also it contains Questions asked by different companies during technical interview.
 </p>
 
 <h2>Preparation Plan</h2>
