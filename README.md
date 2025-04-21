@@ -104,6 +104,8 @@ interview has 4 segments generally.
   <li>How to JWT token</li>
   <li>RESTApi authentication methods in Dotnet also what is JWT?</li>
   <li>How to you send Realtime data from backend also how signalR works?</li>
+  <li>what is sql injection and how to prevent it?</li>
+  
     
 </ol>
     
